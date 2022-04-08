@@ -1,0 +1,15 @@
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\bin\Debug\net6.0\tpmodul7_1302204118.exe
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\bin\Debug\net6.0\tpmodul7_1302204118.deps.json
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\bin\Debug\net6.0\tpmodul7_1302204118.runtimeconfig.json
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\bin\Debug\net6.0\tpmodul7_1302204118.dll
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\bin\Debug\net6.0\tpmodul7_1302204118.pdb
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.csproj.AssemblyReference.cache
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.AssemblyInfoInputs.cache
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.AssemblyInfo.cs
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.csproj.CoreCompileInputs.cache
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.dll
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\refint\tpmodul7_1302204118.dll
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.pdb
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\tpmodul7_1302204118.genruntimeconfig.cache
+C:\Users\RAFIF\OneDrive - Telkom University\SEMESTER 4\Konstruksi Perangkat Lunak\Praktikum\tpmodul7_1302204118\tpmodul7_1302204118\obj\Debug\net6.0\ref\tpmodul7_1302204118.dll
